@@ -1,3 +1,3 @@
 # blog
 
-所有文章 https://github.com/typefj/blog/issues
+所有文章 https://github.com/afqk/blog/issues
